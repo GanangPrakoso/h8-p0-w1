@@ -99,6 +99,11 @@ header a:hover{
     margin: 0 195px 0 195px;
 }
 
+#showcase .highlight{
+    color: #ff6663;
+    font-weight: bold;
+}
+
 /* newsletter */
 #newsletter{
     background: #98b9ab;
@@ -136,7 +141,7 @@ header a:hover{
     float: left;
     text-align: center;
     width: 30%;
-    padding: 15px;
+    padding: 10px;
 
 }
 
@@ -148,14 +153,14 @@ header a:hover{
 nav#sidebar{
     font-size: 15px;
     position: fixed;
-    bottom: 10px;
+    bottom: 50px;
     right: 10px;
     background: #98b9ab;
-    height: 150px;
+    height: 140px;
     padding: 20px;
-    margin-bottom: 15%;
-    border-radius: 20px;
-    border: #ff6663 1px solid;
+    margin-bottom: 155px;
+    border-radius: 30px;
+    border: #ff6663 2px solid;
     box-shadow: 8px 19px 31px -3px rgba(0,0,0,0.57);
 }
 
